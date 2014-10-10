@@ -26,6 +26,8 @@ var sat = parseInt(prompt("How many times did the dog bark on Saturday?"))
 var sun = parseInt(prompt("How many times did the dog bark on Sunday?"))
 
 
+//add up total
+var totalBarks = mon+tue+wed+thur+fri+sat+sun;
 
 
 
