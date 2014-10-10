@@ -29,6 +29,11 @@ var sun = parseInt(prompt("How many times did the dog bark on Sunday?"))
 //add up total
 var totalBarks = mon+tue+wed+thur+fri+sat+sun;
 
+//calculate the average number of barks
+
+var averageBarks = totalBarks / 7
+
+
 
 
 
