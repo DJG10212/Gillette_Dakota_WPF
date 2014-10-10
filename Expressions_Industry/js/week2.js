@@ -22,3 +22,8 @@ var wednesday = prompt("How many hours did you work on Monday? (example: 9)")
 var thursday = prompt("How many hours did you work on Monday? (example: 9)")
 
 var friday = prompt("How many hours did you work on Monday? (example: 9)")
+
+//calculate total hours worked
+var totalHours = monday+tuesday+wednesday+thursday+friday
+
+console
