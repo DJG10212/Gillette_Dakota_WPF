@@ -33,4 +33,11 @@ friday = parseInt(friday)
 //calculate total hours worked
 var totalHours = monday + tuesday + wednesday + thursday + friday;
 
+
+//calculate total amount earned
 var moneyEarned = totalHours * hourlyRate
+
+
+//alert user of their total hours worked, and total pay
+alert("It looks like you worked " +totalHours+ " hours this week, and earned $" +moneyEarned+ "! Good job!")
+
