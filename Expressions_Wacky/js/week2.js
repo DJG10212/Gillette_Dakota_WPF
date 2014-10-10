@@ -34,6 +34,10 @@ var totalBarks = mon+tue+wed+thur+fri+sat+sun;
 var averageBarks = totalBarks / 7
 
 
+//alert user of the average number and total barks
+alert ("The dog(s) barked " +totalBarks+ " times this week! The average number of barks per-day was " +averageBarks+ " times!")
+
+
 
 
 
