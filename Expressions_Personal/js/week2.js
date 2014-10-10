@@ -28,7 +28,7 @@ var testTotal = test1+test2+test3+test4+test5;
 
 var averageScore = testTotal / 5
 
-
+alert ("Your average score on the five assignments was " +averageScore)
 
 
 
